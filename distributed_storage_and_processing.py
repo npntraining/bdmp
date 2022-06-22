@@ -5,7 +5,7 @@ id = "1-Blx0jokYbdZD4WMxdlNqeYXaMLDAF_S"
 output="/home/npntraining/hadoop-2.10.1.zip"
 gdown.download(id=id, output=output, quiet=False)
 
-id = "11-5MynqDJ2sizxaNCcZzpJ4SOygyxpEkD"
+id = "1mKoM4b3Eu0QorDCY9fB22XGuW91lApOz"
 output = "/home/npntraining/hive-3.1.2.zip"
 gdown.download(id=id, output=output, quiet=False)
 
